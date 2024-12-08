@@ -21,9 +21,11 @@ This project focuses on the Video Game industry and the different components owi
 - Unit Sales from Other Regions Worldwide
     
 
-🗒️ The dataset used for this project was received from [Kaggle](https:\www.kaggle.com\datasets\ulrikthygepedersen\video-games-sales).
+🗒️ The dataset used for this project was received from [Kaggle](https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales)
 
-🗒️ This data mart was created based on the principles of Star Schema Design as outlined by [Ralph Kimball](https:\www.kimballgroup.com\data-warehouse-business-intelligence-resources\kimball-techniques\dimensional-modeling-techniques\).
+
+🗒️ This data mart was created based on the principles of Star Schema Design as outlined by [Ralph Kimball](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/)
+
 
 ## 🤔<u>**Questions Addressed with this Data Mart**</u>🤔
 
@@ -43,11 +45,20 @@ The following questions represent the key points to be addressed with this Data 
         
     - Which is the Top Performing Game Franchise?
 
-## 🕸️<u>**Entity-Relationship Diagram (ERD)**</u>🕸️
+## 🕸️**GLOBAL VIDEO GAME INDUSTRY (1980-2008)** <u>**Entity-Relationship Diagram (ERD)**</u>🕸️
 
 The following Entity-Relationship Diagram (ERD) shows a visual representation of the data and established relationships between relevant dimension and fact tables within the database of the Data Mart:
 
 ![Video Game Industry ERD](VideoGameIndustry_ERD_LightBackground_SVG.svg)
+
+
+## **🎮**<u>**Data Definition Language (DDL) & Data Manipulation Language (DML) for Creating Database**</u>**🎮**
+
+Below are links to download the two (2) executable DDL & DML SQL files required to create the database:
+
+1. [DDL - Global Video Game Sales](https://github.com/KCracks/KBIA_Portfolio/blob/main/DDL%20-%20Global%20Video%20Game%20Sales.sql)
+
+2. [DML - Global Video Game Sales](https://github.com/KCracks/KBIA_Portfolio/blob/main/DML%20-%20Global%20Video%20Game%20Sales.sql)
 
 
 ## 🕷️<u>**Structure and SQL Code Outline for Developing Data Definition Language (DDL) to Create Dimension & Fact Tables**</u>**🕷️**

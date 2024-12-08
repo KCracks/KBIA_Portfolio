@@ -1,4 +1,4 @@
-# 🎮🕹️🤖👽_**Video Game Industry Datamart Analysis**_👽🤖🕹️🎮
+# 🎮🕹️🤖👽_**Video Game Industry Data Mart Analysis**_👽🤖🕹️🎮
 
 This project focuses on the Video Game industry and the different components owing to it's growth and development between 1980 and 2008. It's purpose is to allow for predictive analysis to determine if the market is healthy and lucrative enough to facilitate investment for capital gains. It will also allow for determining the best Video Game Publisher Companies to invest in by analysing the following components:
 

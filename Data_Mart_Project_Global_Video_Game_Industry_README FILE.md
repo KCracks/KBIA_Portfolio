@@ -47,7 +47,7 @@ The following questions represent the key points to be addressed with this Data 
 
 The following Entity-Relationship Diagram (ERD) shows a visual representation of the data and established relationships between relevant dimension and fact tables within the database of the Data Mart:
 
-![Video Game Industry ERD](VideoGameIndustry_ERD_transparent_SVG.svg)
+![Video Game Industry ERD](VideoGameIndustry_ERD_LightBackground_SVG.svg)
 
 
 ## 🕷️<u>**Structure and SQL Code Outline for Developing Data Definition Language (DDL) to Create Dimension & Fact Tables**</u>**🕷️**
